@@ -1,0 +1,5 @@
+{
+  "name": "GenAI Flappy Bird",
+  "description": "A customizable Flappy Bird clone where you can upload your own assets or generate them using Google Gemini AI models.",
+  "requestFramePermissions": []
+}
